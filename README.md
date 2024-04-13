@@ -1,4 +1,4 @@
-# Project 23 / 60 --- Building a Logistic Regression Model from Scratch
+# Project 23 / 60 --- Built a Logistic Regression Model from Scratch
 
 ## Business Objective
 
